@@ -15,6 +15,8 @@
   </properties>
 
   <dependencies>
+
+  			
         <!-- Core Library -->
         <dependency>
             <groupId>org.eclipse.jgit</groupId>
